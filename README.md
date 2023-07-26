@@ -1,4 +1,4 @@
-<h1>Data Analysis & Visualization on Indian E-Commerce orders at Amazon</h1>
+<h1>Data Analysis & Visualization on E-Commerce orders at Amazon</h1>
 
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
